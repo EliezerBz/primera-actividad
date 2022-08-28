@@ -1,0 +1,51 @@
+body{
+    background-color: aqua;
+    padding: 5%;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.links{
+    text-align: center;
+}
+
+#ultimo{
+    font-size:larger
+}
+
+#art-2{
+    font-size: larger;
+}
+
+#art-3{
+    font-size: larger;
+}
+
+#lista{
+    font-size: larger;
+}
+
+.aside{
+    padding: 10px;
+    width: 50%;
+    max-width: 150px;
+    min-width: 200px;
+    float: right;
+    background-color: aquamarine;
+    border: #777 solid 1px;
+}
+
+.produc-cont{
+    font-size: larger;
+}
+
+.titulo22{
+    text-align: center;
+}
+
+#imagen-agua{
+    max-width: 850px;
+    min-width: 850px;
+}
