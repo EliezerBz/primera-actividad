@@ -49,3 +49,8 @@ body{
     max-width: 850px;
     min-width: 850px;
 }
+
+.vid{
+    width: 300px;
+    height: 300px;
+}
