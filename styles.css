@@ -1,6 +1,7 @@
 body{
     background-color: aqua;
     padding: 5%;
+    border: 5px dashed;
 }
 
 .titulo{
